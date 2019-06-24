@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: thai_hnaphukhau
+  schema_id: thai_naphukhau
   name: ไทย-ห.ภ.ข.
   version: "0.01"
   author:
